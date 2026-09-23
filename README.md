@@ -61,16 +61,12 @@ mods+клавиша = команда
 ```
 sudo pkg install xcb-util-keysyms xcb-util-cursor xcb-util-renderutil pkgconf gmake
 gmake
-
-./QSWM
 ```
 
 **Ubuntu/Debian**
 ```
 sudo apt install build-essential pkg-config libxcb1-dev libxcb-keysyms1-dev libxcb-cursor-dev libxcb-render0-dev
 make
-
-./QSWM
 ```
 
 ## Технологии
